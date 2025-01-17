@@ -117,6 +117,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andfernando-code&show_icons=true&locale=en" alt="GitHub Stats">
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andfernando-code" alt="GitHub Streak">
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andfernando-code&" alt="andfernando-code" /></p>
